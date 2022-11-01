@@ -1,0 +1,2 @@
+# algoritmo-k
+Positivo negativo 
